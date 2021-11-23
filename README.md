@@ -54,7 +54,8 @@ The purpose of this project is to refactor the codebase of the Horiseon landing 
 
 **The following resources were used to complete this project:**
 1. UCONN Coding Bootcamp's modules on HTML and CSS
-2. README content article:  https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
+2. README content article [FreeCodeCamp.org] (https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
+3. README style article from [Github Docs] (https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links) 
 
 ## License
 [GNU](https://opensource.org/licenses/GPL-3.0)
