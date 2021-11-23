@@ -21,8 +21,8 @@ The primary technologies used were:
 ## History
 
 Header and Navigation <br />
-1. Used the semantic 'header' tag to demarcate the information at the very top of the page. </br >
-2. Used 'nav' semantic element to differentiate and encapsulate the hypertext anchors and also ensured checked to make sure the IDs matched source and destination. 
+1. I used the semantic 'header' tag to demarcate the information at the very top of the page. </br >
+2. I used 'nav' semantic element to differentiate and encapsulate the hypertext anchors and also ensured checked to make sure the IDs matched source and destination. 
 <img src="./assets/images/horiseon-header.jpg" alt="horiseon header and navigation  bar">
 
 </br ></br >
