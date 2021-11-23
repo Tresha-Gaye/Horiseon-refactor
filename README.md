@@ -20,38 +20,36 @@ The primary technologies used were:
 
 ## History
 
-<img src="./assets/images/horiseon-header.jpg" alt="horiseon header and navigation  bar">
 Header and Navigation <br />
 1. Used the semantic 'header' tag to demarcate the information at the very top of the page. </br >
 2. Used 'nav' semantic element to differentiate and encapsulate the hypertext anchors and also ensured checked to make sure the IDs matched source and destination. 
+<img src="./assets/images/horiseon-header.jpg" alt="horiseon header and navigation  bar">
 
 </br ></br >
 
-<img src="./assets/images/hero-pic.jpg" alt="people in a meeting">
-</br >
 Hero </br >
 1. This presented a challenge because I couldn't find the source imaage, which was actually located in style.css as an svg file. I broke the page until I located and corrected it in the codebase.
 </br ></br >
+<img src="./assets/images/hero-pic.jpg" alt="people in a meeting">
 
-<img src="./assets/images/horiseon-footer.jpg" alt="creator and copyright information"> 
-</br >
-Footer </br >
-1. The footer was the simplest section to address, by substituting the semantic 'footer' for the more wordy elements previously used, minimizing the code.
 </br ></br >
 
-<img src="./assets/images/main-content.jpg" alt="features">
-</br >
+Footer </br >
+1. The footer was the simplest section to address, by substituting the semantic 'footer' for the more wordy elements previously used, minimizing the code. <br />
+<img src="./assets/images/horiseon-footer.jpg" alt="creator and copyright information"> 
+</br ></br >
+
 Main content section </br >
 1. I utilized semantic elements here as well by differentiating the parent 'section' from its 'div' children to make it easier to read and optimise searches. </br >
 2. I utilized common 'class' and 'id' attributes to consolidate the code
-3. I added 'alt' text to the images as an accessibility feature 
+3. I added 'alt' text to the images as an accessibility feature <br />
+<img src="./assets/images/main-content.jpg" alt="features">
 </br ></br >
 
-<img src="./assets/images/lead-gen.jpg" alt="benefits">
-</br >
 Lead generation section </br >
 1. This section could have been called the 'secondary content' section, but I thought it was more important to specify the actual content. </br >
 2. I used emplty 'alt' references so that the text reader would not waste time reading these icons. 
+<img src="./assets/images/lead-gen.jpg" alt="benefits">
 
 ## Contributing
 
