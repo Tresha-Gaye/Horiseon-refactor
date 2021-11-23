@@ -1,23 +1,21 @@
 # Code Refactor Starter Code
 
-Overview
-
 The purpose of this project is to refactor the codebase of the Horiseon landing page so that it meets accessibility standards and is optimised for search engines.
 
-Goals
-Both purposes were achieved by the following methods:
-/* by ensuring that all images have <alt> tags.
-/* by substituting semantic HTML elements such as <section>, <nav>, <header> and <footer> for numerous, non-descriptive <div> elements
-/* by ensuring that all links worked efficiently
-/* by consolidating and reorganizing CSS sectors and properties
-/* by including comments before each element or section of the page  
+# Goals
+
+Both goals were achieved by the following methods:
+1. by ensuring that all images have <alt> tags.
+2. by substituting semantic HTML elements such as <section>, <nav>, <header> and <footer> for numerous, non-descriptive <div> elements
+3. by ensuring that all links worked efficiently
+4. by consolidating and reorganizing CSS sectors and properties
+5. by including comments before each element or section of the page  
 
 ## Technologies
 
 The primary technologies used were:
-/* Visual Studio to create HTML and CSS files
-/* Git Bash command line interface
-
+1. Visual Studio to create HTML and CSS files
+2. Git Bash command line interface 
 
 ## Usage
 
@@ -25,11 +23,7 @@ TODO: Write usage instructions
 
 ## Contributing
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg
 
 ## History
 
@@ -37,11 +31,10 @@ TODO: Write history
 
 ## Credits
 
-TODO: Write credits
+The following resources were used to complete this projects:
+1. UCONN Coding Bootcamp's modules on HTML and CSS
+2. This README:  https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
 
 ## License
 
-TODO: Write license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
+GPL-3.0-or-later
