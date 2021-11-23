@@ -4,63 +4,57 @@ The purpose of this project is to refactor the codebase of the Horiseon landing 
 
 ## Goals
 
-Both goals were achieved by the following methods:
-<br />
-1. by ensuring that all images have <alt> tags. <br />
-2. by substituting semantic HTML elements such as section, nav, header and footer for numerous, non-descriptive div elements <br />
-3. by ensuring that all links worked efficiently <br />
-4. by consolidating and reorganizing CSS sectors and properties <br />
-5. by including comments before each element or section of the page  
+**Both goals were achieved by the following methods:**
+[x] by ensuring that all images have `alt` descriptions. 
+[x] by substituting semantic HTML elements such as `section`, `nav`, `header` and `footer` for numerous, non-descriptive `div` elements 
+[x] by ensuring that all links worked efficiently 
+[x] by consolidating and reorganizing CSS sectors and properties 
+[x] by including comments before each element or section of the page  
 
 ## Technologies
 
-The primary technologies used were:
+**The primary technologies used were:**
 1. Visual Studio to create HTML and CSS files
 2. Git Bash command line interface 
 
 ## History
 
-Header and Navigation <br />
-1. I used the semantic 'header' tag to demarcate the information at the very top of the page. </br >
-2. I used 'nav' semantic element to differentiate and encapsulate the hypertext anchors and also ensured checked to make sure the IDs matched source and destination. 
-<img src="./assets/images/horiseon-header.jpg" alt="horiseon header and navigation  bar">
+**Header and Navigation**
+- I used the semantic `header` tag to demarcate the information at the very top of the page. 
+- I used `nav` semantic element to differentiate and encapsulate the hypertext anchors and also ensured checked to make sure the IDs matched source and destination. 
+![Horiseon header and vavigation bar] (./assets/images/horiseon-header.jpg) 
 
-</br ></br >
+**Hero**
+- This presented a challenge because I couldn't find the source image, which was actually located in style.css as an svg file. I broke the page until I located and corrected it in the codebase.
 
-Hero </br >
-1. This presented a challenge because I couldn't find the source imaage, which was actually located in style.css as an svg file. I broke the page until I located and corrected it in the codebase.
-</br ></br >
-<img src="./assets/images/hero-pic.jpg" alt="people in a meeting">
+![People in a meeting] (./assets/images/hero-pic.jpg)
 
-</br ></br >
+**Footer**
+- The footer was the simplest section to address, by substituting the semantic `footer` for the more wordy elements previously used, minimizing the code. 
+![Creator and copyright information] (./assets/images/horiseon-footer.jpg)
 
-Footer </br >
-1. The footer was the simplest section to address, by substituting the semantic 'footer' for the more wordy elements previously used, minimizing the code. <br />
-<img src="./assets/images/horiseon-footer.jpg" alt="creator and copyright information"> 
-</br ></br >
+**Main content section**
+- I utilized semantic elements here as well by differentiating the parent `section` from its `div` children to make it easier to read and optimise searches. 
+- I utilized common `class` and `id` attributes to consolidate the code
+- I added 'alt' text to the images as an accessibility feature
 
-Main content section </br >
-1. I utilized semantic elements here as well by differentiating the parent 'section' from its 'div' children to make it easier to read and optimise searches. </br >
-2. I utilized common 'class' and 'id' attributes to consolidate the code
-3. I added 'alt' text to the images as an accessibility feature <br />
-<img src="./assets/images/main-content.jpg" alt="features">
-</br ></br >
+![Features] (./assets/images/main-content.jpg)
 
-Lead generation section </br >
-1. This section could have been called the 'secondary content' section, but I thought it was more important to specify the actual content. </br >
-2. I used emplty 'alt' references so that the text reader would not waste time reading these icons. 
-<img src="./assets/images/lead-gen.jpg" alt="benefits">
+**Lead generation section**
+- This section could have been called the 'secondary content' section, but I thought it was more important to specify the actual content. </br >
+- I used emplty 'alt' references so that the text reader would not waste time reading these icons. 
+
+![benefits] (./assets/images/lead-gen.jpg)
 
 ## Contributing
 
-<img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg" alt="contributing badge" />
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
 ## Credits
 
-The following resources were used to complete this projects:
+**The following resources were used to complete this project:**
 1. UCONN Coding Bootcamp's modules on HTML and CSS
-2. This article:  https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
+2. README content article:  https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
 
 ## License
-
-GPL 3.0-or later
+[GNU](https://opensource.org/licenses/GPL-3.0)
