@@ -22,29 +22,31 @@ The purpose of this project is to refactor the codebase of the Horiseon landing 
 **Header and Navigation**
 - I used the semantic `header` tag to demarcate the information at the very top of the page. 
 - I used `nav` semantic element to differentiate and encapsulate the hypertext anchors and also ensured checked to make sure the IDs matched source and destination. 
-![Horiseon header and vavigation bar] (./assets/images/horiseon-header.jpg) 
+
+![Horiseon header and navigation bar](./assets/images/horiseon-header.jpg) 
 
 **Hero**
 - This presented a challenge because I couldn't find the source image, which was actually located in style.css as an svg file. I broke the page until I located and corrected it in the codebase.
 
-![People in a meeting] (./assets/images/hero-pic.jpg)
+![People in a meeting](./assets/images/hero-pic.jpg)
 
 **Footer**
 - The footer was the simplest section to address, by substituting the semantic `footer` for the more wordy elements previously used, minimizing the code. 
-![Creator and copyright information] (./assets/images/horiseon-footer.jpg)
+
+![Creator and copyright information](./assets/images/horiseon-footer.jpg)
 
 **Main content section**
 - I utilized semantic elements here as well by differentiating the parent `section` from its `div` children to make it easier to read and optimise searches. 
 - I utilized common `class` and `id` attributes to consolidate the code
 - I added 'alt' text to the images as an accessibility feature
 
-![Features] (./assets/images/main-content.jpg)
+![Features](./assets/images/main-content.jpg)
 
 **Lead generation section**
 - This section could have been called the 'secondary content' section, but I thought it was more important to specify the actual content. </br >
 - I used emplty 'alt' references so that the text reader would not waste time reading these icons. 
 
-![benefits] (./assets/images/lead-gen.jpg)
+![benefits](./assets/images/lead-gen.jpg)
 
 ## Contributing
 
