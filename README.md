@@ -2,22 +2,22 @@
 
 The purpose of this project is to refactor the codebase of the Horiseon landing page so that it meets accessibility standards and is optimised for search engines.
 
-View the deployed application by [clicking this link](https://tresha-gaye.github.io/Horiseon-refactor/)
+View the deployed application by [clicking this link](https://tresha-gaye.github.io/Horiseon-refactor/).
 
 ## Goals
 
 **Both goals were achieved by the following methods:**
 - by ensuring that all images have `alt` descriptions. 
-- by substituting semantic HTML elements such as `section`, `nav`, `header` and `footer` for numerous, non-descriptive `div` elements 
-- by ensuring that all links worked efficiently 
-- by consolidating and reorganizing CSS sectors and properties 
-- by including comments before each element or section of the page  
+- by substituting semantic HTML elements such as `section`, `nav`, `header` and `footer` for numerous, non-descriptive `div` elements. 
+- by ensuring that all links worked efficiently. 
+- by consolidating and reorganizing CSS sectors and properties. 
+- by including comments before each element or section of the page.  
 
 ## Technologies
 
 **The primary technologies used were:**
-1. Visual Studio to create HTML and CSS files
-2. Git Bash command line interface 
+1. Visual Studio to create HTML and CSS files.
+2. Git Bash command line interface. 
 
 ## History
 
@@ -39,13 +39,13 @@ View the deployed application by [clicking this link](https://tresha-gaye.github
 
 **Main content section**
 - I utilized semantic elements here as well by differentiating the parent `section` from its `div` children to make it easier to read and optimise searches. 
-- I utilized common `class` and `id` attributes to consolidate the code
-- I added 'alt' text to the images as an accessibility feature
+- I utilized common `class` and `id` attributes to consolidate the code.
+- I added 'alt' text to the images as an accessibility feature.
 
 ![Features](./assets/images/main-content.jpg)
 
 **Lead generation section**
-- This section could have been called the 'secondary content' section, but I thought it was more important to specify the actual content. </br >
+- This section could have been called the 'secondary content' section, but I thought it was more important to specify the actual content. 
 - I used emplty 'alt' references so that the text reader would not waste time reading these icons. 
 
 ![benefits](./assets/images/lead-gen.jpg)
