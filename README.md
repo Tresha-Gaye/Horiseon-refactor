@@ -2,7 +2,7 @@
 
 The purpose of this project is to refactor the codebase of the Horiseon landing page so that it meets accessibility standards and is optimised for search engines.
 
-View the deployed application by [clicking this link] (https://tresha-gaye.github.io/Horiseon-refactor/)
+View the deployed application by [clicking this link](https://tresha-gaye.github.io/Horiseon-refactor/)
 
 ## Goals
 
